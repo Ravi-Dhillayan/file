@@ -1,0 +1,10 @@
+Name of Animal : Cat
+Cat Foot :: 4
+Name of Animal : Dog
+Foot of 4 = 4
+Name of Animal : Cow
+Foot of 4 = 4
+Name of Animal : hourse
+Foot of  = 
+Name of Animal : hourse
+Foot of 12 = 12
